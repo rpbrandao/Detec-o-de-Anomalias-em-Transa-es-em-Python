@@ -1,0 +1,94 @@
+transaction_id,timestamp,cartao_id,valor,categoria,pais,dispositivo,hora_dia,score_risco,nivel_risco,razoes_alerta,fraude
+B956238EFE36,2025-02-21 21:18:40,****4571,3465.78,saques_atm,NG,atm,2,125,ALTO,"País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Valor elevado (R$ 3,465.78) | Transação internacional | Múltiplos países",1
+9A75A544A55D,2025-03-04 02:16:38,****2517,3602.21,saques_atm,RO,atm,5,110,ALTO,"País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Valor elevado (R$ 3,602.21) | Transação internacional",1
+983C3D293460,2025-02-24 02:38:32,****6571,8209.14,eletrônicos,RU,atm,1,110,ALTO,"País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Valor elevado (R$ 8,209.14) | Transação internacional",1
+6DCAAC3410D7,2025-02-06 09:25:11,****0950,5909.96,viagens,CN,atm,4,110,ALTO,"País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Valor elevado (R$ 5,909.96) | Transação internacional",1
+DDD161D48082,2025-01-26 09:54:50,****8623,6981.13,viagens,RO,atm,4,110,ALTO,"País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Valor elevado (R$ 6,981.13) | Transação internacional",1
+77E51DEAB776,2025-01-28 12:03:39,****4756,5621.85,saques_atm,RU,mobile,4,100,ALTO,"País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Valor elevado (R$ 5,621.85) | Transação internacional",1
+9EE80664BE5E,2025-01-26 07:52:50,****9829,4730.31,saques_atm,RU,mobile,5,100,ALTO,"País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Valor elevado (R$ 4,730.31) | Transação internacional",1
+427C3198AAAD,2025-01-06 19:19:50,****8976,320.38,eletrônicos,NG,atm,2,100,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional | Múltiplos países,1
+ADA98F1C6DEE,2025-01-24 16:02:20,****7888,8335.56,e-commerce,RU,web,2,100,ALTO,"País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Valor elevado (R$ 8,335.56) | Transação internacional",1
+2265DF34B6BF,2025-01-12 02:50:52,****3966,5183.06,saques_atm,NG,mobile,5,100,ALTO,"País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Valor elevado (R$ 5,183.06) | Transação internacional",1
+E12C44DA8298,2025-01-04 22:02:20,****7508,1199.39,eletrônicos,NG,atm,0,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+F3A11FAA34ED,2025-02-06 17:13:02,****3325,996.47,e-commerce,RO,atm,4,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+F344A40A52A9,2025-02-03 06:58:00,****6517,2813.42,saques_atm,RO,atm,2,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+32EEBF0B9489,2025-03-07 16:37:55,****9605,463.4,eletrônicos,CN,atm,1,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+186381290B21,2025-02-12 03:36:11,****1404,1313.14,eletrônicos,CN,atm,1,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+2E73A057E6C2,2025-03-03 02:00:53,****2559,103.42,viagens,RO,atm,1,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+93003E02C604,2025-02-20 18:42:53,****9859,669.16,e-commerce,RO,atm,5,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+A9181E238662,2025-02-28 08:53:47,****2111,1314.17,e-commerce,RU,atm,2,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+6B2FAD527294,2025-02-24 20:30:00,****2188,911.61,eletrônicos,RU,atm,4,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+DB8AA89A5984,2025-01-17 03:53:56,****0736,860.35,e-commerce,CN,atm,2,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+8C0988BBC8BB,2025-03-07 04:06:01,****4160,396.74,saques_atm,RO,atm,2,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+9D862A87B8A0,2025-03-18 07:05:42,****8627,238.82,eletrônicos,CN,atm,1,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+6EC9D6D6BBC4,2025-03-05 05:45:15,****6737,943.52,saques_atm,RO,atm,4,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+667048D15828,2025-03-17 13:02:05,****1608,112.97,eletrônicos,CN,atm,3,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+A4DBD8C75D70,2025-01-04 07:20:22,****4182,1996.93,viagens,NG,atm,4,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+66A8B4FD449E,2025-01-30 19:25:08,****7589,906.25,saques_atm,RO,atm,4,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+1E4CA0DB331B,2025-01-25 18:58:32,****1867,250.73,saques_atm,NG,atm,1,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+3E16F12EF950,2025-03-28 11:55:28,****7681,136.44,e-commerce,NG,atm,0,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+EE8DC290FC1E,2025-02-25 15:57:59,****1497,971.7,saques_atm,RO,atm,3,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+391A003C586B,2025-01-19 15:04:33,****5633,1967.94,eletrônicos,RO,atm,5,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+3667F6A0C974,2025-03-25 22:55:17,****4614,1532.88,eletrônicos,RU,atm,2,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+D89640998628,2025-01-01 17:21:47,****6159,425.73,saques_atm,RO,atm,3,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+226C24DBB64D,2025-01-13 19:08:30,****1854,507.36,saques_atm,RO,atm,5,85,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+86BCDA239376,2025-01-25 07:10:09,****3931,3342.82,saques_atm,RU,web,22,80,ALTO,"País de alto risco | Categoria de risco | Valor elevado (R$ 3,342.82) | Transação internacional",1
+55F1E0995561,2025-03-09 12:34:42,****6488,20487.84,saques_atm,RU,web,23,80,ALTO,"País de alto risco | Categoria de risco | Valor elevado (R$ 20,487.84) | Transação internacional",1
+6B350E30356B,2025-01-31 23:11:20,****2477,15272.8,eletrônicos,CN,web,23,80,ALTO,"País de alto risco | Categoria de risco | Valor elevado (R$ 15,272.80) | Transação internacional",1
+3D3B7E22730E,2025-01-28 01:32:57,****5860,731.68,e-commerce,NG,web,0,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+F32471B82395,2025-01-20 19:32:32,****1355,1079.57,viagens,NG,web,3,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+AD4D73F5E545,2025-03-28 23:14:29,****2405,115.23,saques_atm,NG,web,4,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+8C6E9167014D,2025-03-27 14:03:27,****1622,1030.2,viagens,NG,mobile,2,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+6F5A6FC883CC,2025-03-20 02:23:07,****1374,588.06,saques_atm,RO,web,1,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+9928D7BFAA47,2025-03-05 10:28:38,****8693,2377.53,viagens,RU,web,0,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+FFB1A639005C,2025-03-11 12:57:08,****2311,58.21,saques_atm,CN,web,1,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+D8AB843B1DAF,2025-03-24 05:54:20,****7228,482.57,viagens,NG,mobile,0,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+2661C453FFD1,2025-02-03 13:51:32,****0196,120.44,eletrônicos,NG,web,4,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+5C240E2F0693,2025-01-27 01:03:49,****3334,447.74,e-commerce,RO,web,1,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+B9C4C0EC0A3B,2025-01-23 01:41:02,****3920,214.2,e-commerce,NG,web,4,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+8E497D908CBF,2025-01-19 20:52:49,****9920,1020.41,eletrônicos,RO,web,0,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+F2D55651DA3C,2025-02-09 04:29:04,****4160,851.63,saques_atm,RO,web,5,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+AB4B3A1A1D27,2025-03-07 05:12:18,****0276,29.82,eletrônicos,NG,web,3,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+3AD32B999FE4,2025-02-15 11:40:10,****1063,39.27,viagens,RU,web,0,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+74CE2E1A498F,2025-03-03 09:43:51,****4282,62.18,viagens,RU,web,1,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+65C4E4E2BB26,2025-02-22 04:59:44,****0933,913.29,saques_atm,RO,mobile,3,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+A6BDA1E4BF83,2025-01-11 02:18:48,****2776,436.5,viagens,RO,web,3,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+7FF4A2BB3081,2025-01-30 18:01:06,****8755,863.9,eletrônicos,RO,mobile,3,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+CFD2DF1B8182,2025-01-19 03:22:23,****4536,1699.46,saques_atm,NG,mobile,2,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+A3D8D4ED427D,2025-03-04 02:33:06,****2532,324.34,viagens,CN,web,2,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+0362FEC4071E,2025-02-22 12:31:11,****0303,341.87,saques_atm,NG,mobile,4,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+17156A844984,2025-03-28 05:55:47,****1046,236.1,eletrônicos,RU,web,3,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+80D92D3A45FB,2025-01-12 18:38:01,****0896,1930.6,viagens,NG,web,4,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+6E1FCD704528,2025-01-10 10:13:42,****4200,72.19,e-commerce,NG,web,1,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+04F0BE90CF36,2025-03-22 02:46:23,****4460,2879.33,viagens,NG,web,2,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+D8FBB6A8B894,2025-01-02 21:34:34,****9498,1177.5,saques_atm,RO,web,5,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+C4545709E3B0,2025-01-30 02:52:47,****5475,258.74,viagens,CN,web,1,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+68F23B5F000D,2025-03-16 08:37:08,****5559,299.64,eletrônicos,RU,web,1,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+0FEE76AD38CE,2025-03-14 03:30:00,****1864,452.92,eletrônicos,CN,web,1,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+8254BFFE4427,2025-03-20 11:26:02,****9549,163.71,saques_atm,NG,web,2,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+FFA04600C43D,2025-02-17 05:10:41,****8960,90.2,viagens,RO,web,5,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+B5C01163B702,2025-02-08 21:28:12,****7077,205.65,saques_atm,NG,mobile,4,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+3B067C57F5A4,2025-03-11 02:13:28,****9447,971.85,saques_atm,RO,web,3,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+478ED2B7F236,2025-01-04 08:57:44,****8554,186.68,eletrônicos,RO,web,2,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+6E0D0CDF9E48,2025-03-18 17:01:23,****1422,188.22,e-commerce,CN,mobile,5,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+FC698BD6EBA4,2025-03-07 07:11:29,****2292,2365.16,viagens,RO,web,1,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+6E7B7832B89E,2025-01-16 17:14:57,****1565,545.23,viagens,RU,web,5,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+87C7D2A22550,2025-02-16 03:18:00,****2761,1221.26,e-commerce,RU,web,2,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+D3C79F08734A,2025-03-21 15:53:19,****1434,946.94,eletrônicos,CN,web,2,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+FE397F3F6F24,2025-02-20 21:17:30,****7362,124.37,saques_atm,RO,web,0,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+EC9D0ED15247,2025-03-04 03:53:27,****5388,426.71,viagens,RO,web,0,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+DD724F3D232D,2025-03-20 10:06:42,****4264,208.13,viagens,NG,web,4,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+25F70604FE1B,2025-02-03 05:22:54,****7737,1322.85,viagens,RO,mobile,5,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+939AE7F47AD5,2025-01-18 14:55:34,****1533,224.75,viagens,CN,web,3,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+DB79C2F1B4FE,2025-02-08 04:45:54,****9974,1186.42,e-commerce,RU,web,3,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+1F7602E4A66D,2025-01-10 08:02:44,****8442,936.45,saques_atm,RO,mobile,2,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+64E4CDA19B3F,2025-03-13 23:22:25,****2202,659.97,eletrônicos,NG,web,0,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+9B58821E3A5E,2025-02-08 01:04:53,****0568,31.76,saques_atm,NG,web,3,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+512DC597BE7A,2025-02-08 11:44:55,****6466,626.25,saques_atm,RU,web,5,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+74B2C41C45B3,2025-01-02 08:56:21,****1000,51.84,eletrônicos,NG,mobile,2,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+82B5F6802B72,2025-02-19 11:31:55,****2655,96.22,saques_atm,NG,web,5,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+599F127BD63E,2025-01-27 09:46:48,****2270,316.44,viagens,RU,web,0,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+AE35FFCD3FE3,2025-02-03 10:28:59,****7127,43.71,viagens,NG,web,4,75,ALTO,País de alto risco | Horário suspeito (madrugada) | Categoria de risco | Transação internacional,1
+DAFEBF341C33,2025-03-12 13:22:44,****7175,3749.11,e-commerce,US,web,4,70,ALTO,"Horário suspeito (madrugada) | Categoria de risco | Valor elevado (R$ 3,749.11) | Transação internacional",1
+4AD414ECF7E8,2025-01-25 00:47:55,****1791,7823.31,eletrônicos,US,web,0,70,ALTO,"Horário suspeito (madrugada) | Categoria de risco | Valor elevado (R$ 7,823.31) | Transação internacional",1
+D3C8A0832878,2025-01-27 23:34:16,****7354,5497.29,viagens,US,web,4,70,ALTO,"Horário suspeito (madrugada) | Categoria de risco | Valor elevado (R$ 5,497.29) | Transação internacional",1
