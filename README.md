@@ -1,1 +1,1 @@
-# Detec-o-de-Anomalias-em-Transa-es-em-Python
+# Deteccoes-de-Anomalias-em-Transacoes-em-Python
